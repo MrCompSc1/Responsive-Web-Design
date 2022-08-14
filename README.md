@@ -6,3 +6,4 @@
 - CSS box model painting - Visuals investigating the box model for images
 - Photo Gallery - Using FlexBox to display photos
 - Nutrition label - Typesetting using CSS
+- Accessibility quiz - Form-based quiz considering accessibility features
