@@ -7,3 +7,4 @@
 - Photo Gallery - Using FlexBox to display photos
 - Nutrition label - Typesetting using CSS
 - Accessibility quiz - Form-based quiz considering accessibility features
+- Balance sheet - Using CSS pseudo selectors to change specific HTML elements
